@@ -256,6 +256,22 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
   </article>
 
 
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Nextcloud.png">
+    </div>
+    <div>
+      <h2>Nextcloud</h2>
+      <p>Nextcloud est une plate-forme auto-hébergée de services de stockage et d’applications diverses dans les nuages.</p>
+      <div>
+        <a href="https://framalibre.org/notices/nextcloud.html">Vers la notice Framalibre</a>
+        <a href="https://nextcloud.com/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+
 # Gestion des sites Web
 
 
@@ -284,6 +300,91 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
       <div>
         <a href="https://framalibre.org/notices/spip.html">Vers la notice Framalibre</a>
         <a href="http://www.spip.net/">Vers le site</a>
+      </div>
+    </div>
+  </article> 
+
+# Outils de bureautique
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/LibreOffice.png">
+    </div>
+    <div>
+      <h2>LibreOffice</h2>
+      <p>Une suite bureautique issue d'OpenOffice.org.</p>
+      <div>
+        <a href="https://framalibre.org/notices/libreoffice.html">Vers la notice Framalibre</a>
+        <a href="https://fr.libreoffice.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Thunderbird.png">
+    </div>
+    <div>
+      <h2>Thunderbird</h2>
+      <p>Célèbre client de courriel issu du projet Mozilla, distribué par la Fondation Mozilla.</p>
+      <div>
+        <a href="https://framalibre.org/notices/thunderbird.html">Vers la notice Framalibre</a>
+        <a href="https://www.thunderbird.net/fr/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Firefox.png">
+    </div>
+    <div>
+      <h2>Firefox</h2>
+      <p>Le navigateur web épris de liberté distribué par la Fondation Mozilla.</p>
+      <div>
+        <a href="https://framalibre.org/notices/firefox.html">Vers la notice Framalibre</a>
+        <a href="https://www.mozilla.org/fr/firefox/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+# Système d'exploitation
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Ubuntu.png">
+    </div>
+    <div>
+      <h2>Ubuntu</h2>
+      <p>Système d'exploitation libre facile à installer et à administrer.</p>
+      <div>
+        <a href="https://framalibre.org/notices/ubuntu.html">Vers la notice Framalibre</a>
+        <a href="https://ubuntu.com/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+# Communication
+
+ 
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Signal.png">
+    </div>
+    <div>
+      <h2>Signal</h2>
+      <p>Application de messagerie et téléphonie mobile respectueuse de la vie privée.</p>
+      <div>
+        <a href="https://framalibre.org/notices/signal.html">Vers la notice Framalibre</a>
+        <a href="https://signal.org">Vers le site</a>
       </div>
     </div>
   </article> 
