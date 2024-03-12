@@ -3,9 +3,10 @@ title: "Ma page de recommandations"
 order: 0
 in_menu: true
 ---
+![Logo du professeur Patrice HARDOUIN]({% link images/logo_PPH_Complet.png %})
+
 Voici la liste de mes logiciels libres préférés, je vous les recommande tout particulièrement !
 
-![Logo du professeur Patrice HARDOUIN]({% link images/logo_PPH_Complet.png %})
 
 # Mes logiciels libres pour produire mes documentations pédagogiques
 
