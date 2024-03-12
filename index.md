@@ -105,7 +105,7 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
     </div>
   </article> 
 
-## Cartographie des formation
+## Cartographie des formations
 
 
   <article class="framalibre-notice">
