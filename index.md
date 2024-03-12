@@ -372,8 +372,7 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
   </article>
 
 
-# Communication et veille documentaire
-
+# Communication
  
   <article class="framalibre-notice">
     <div>
@@ -389,6 +388,8 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
     </div>
   </article> 
 
+
+# Veille documentaire
 
   <article class="framalibre-notice">
     <div>
