@@ -105,6 +105,56 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
     </div>
   </article> 
 
+## Cartographie des formation
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Freeplane.png">
+    </div>
+    <div>
+      <h2>Freeplane</h2>
+      <p>Pour créer des cartes heuristiques, des cartes mentales (mind mapping). Une référence dans cette catégorie.</p>
+      <div>
+        <a href="https://framalibre.org/notices/freeplane.html">Vers la notice Framalibre</a>
+        <a href="https://www.freeplane.org">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Kanboard.png">
+    </div>
+    <div>
+      <h2>Kanboard</h2>
+      <p>Kanboard, un logiciel libre pour gérer ses projets avec la méthode Kanban</p>
+      <div>
+        <a href="https://framalibre.org/notices/kanboard.html">Vers la notice Framalibre</a>
+        <a href="https://kanboard.org">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Easy!%20Appointments.jpeg">
+    </div>
+    <div>
+      <h2>Easy! Appointments</h2>
+      <p>Prise de rendez-vous, organisation d'évènements, inscriptions à des prestations individuelles ou collective...</p>
+      <div>
+        <a href="https://framalibre.org/notices/easy-appointments.html">Vers la notice Framalibre</a>
+        <a href="https://easyappointments.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+
 ## Travailler sur les PDF
 
 
@@ -165,6 +215,75 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
       <div>
         <a href="https://framalibre.org/notices/gimp.html">Vers la notice Framalibre</a>
         <a href="https://www.gimp.org/">Vers le site</a>
+      </div>
+    </div>
+  </article> 
+
+
+# Création de tutoriels vidéo
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/OBS%20studio.png">
+    </div>
+    <div>
+      <h2>OBS studio</h2>
+      <p>OBS studio est un logiciel de streaming vidéo et screencasting.</p>
+      <div>
+        <a href="https://framalibre.org/notices/obs-studio.html">Vers la notice Framalibre</a>
+        <a href="https://obsproject.com/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+# Gestion des ressources documentaires
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Calibre.png">
+    </div>
+    <div>
+      <h2>Calibre</h2>
+      <p>Gestionnaire de bibliothèque de livres numériques.</p>
+      <div>
+        <a href="https://framalibre.org/notices/calibre.html">Vers la notice Framalibre</a>
+        <a href="https://calibre-ebook.com/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+# Gestion des sites Web
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/FileZilla.png">
+    </div>
+    <div>
+      <h2>FileZilla</h2>
+      <p>FileZilla est un client FTP, FTPS et sFTP populaire.</p>
+      <div>
+        <a href="https://framalibre.org/notices/filezilla.html">Vers la notice Framalibre</a>
+        <a href="https://filezilla-project.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Spip.png">
+    </div>
+    <div>
+      <h2>Spip</h2>
+      <p>Très puissant, SPIP peut gérer un petit blog comme un gros site, grâce à son système de « squelettes »...</p>
+      <div>
+        <a href="https://framalibre.org/notices/spip.html">Vers la notice Framalibre</a>
+        <a href="http://www.spip.net/">Vers le site</a>
       </div>
     </div>
   </article> 
