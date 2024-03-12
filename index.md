@@ -104,3 +104,67 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
       </div>
     </div>
   </article> 
+
+## Travailler sur les PDF
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/PDFtk.png">
+    </div>
+    <div>
+      <h2>PDFtk</h2>
+      <p>La boîte à outil ultime pour modifier les fichiers PDF.</p>
+      <div>
+        <a href="https://framalibre.org/notices/pdftk.html">Vers la notice Framalibre</a>
+        <a href="https://www.pdflabs.com/tools/pdftk-server/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Xournal++.png">
+    </div>
+    <div>
+      <h2>Xournal++</h2>
+      <p>Pour prendre notes manuscrites et annoter des pdf sur tablette graphique.</p>
+      <div>
+        <a href="https://framalibre.org/notices/xournal.html">Vers la notice Framalibre</a>
+        <a href="https://github.com/xournalpp/xournalpp">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+## Travail sur les images
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Inkscape.png">
+    </div>
+    <div>
+      <h2>Inkscape</h2>
+      <p>Un puissant logiciel de dessin vectoriel.</p>
+      <div>
+        <a href="https://framalibre.org/notices/inkscape.html">Vers la notice Framalibre</a>
+        <a href="https://inkscape.org/fr/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/GIMP.png">
+    </div>
+    <div>
+      <h2>GIMP</h2>
+      <p>Un puissant logiciel d'édition et de retouche d'images.</p>
+      <div>
+        <a href="https://framalibre.org/notices/gimp.html">Vers la notice Framalibre</a>
+        <a href="https://www.gimp.org/">Vers le site</a>
+      </div>
+    </div>
+  </article> 
