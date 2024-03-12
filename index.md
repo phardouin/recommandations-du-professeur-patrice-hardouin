@@ -372,7 +372,7 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
   </article>
 
 
-# Communication
+# Communication et veille documentaire
 
  
   <article class="framalibre-notice">
@@ -385,6 +385,37 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
       <div>
         <a href="https://framalibre.org/notices/signal.html">Vers la notice Framalibre</a>
         <a href="https://signal.org">Vers le site</a>
+      </div>
+    </div>
+  </article> 
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Shaarli.png">
+    </div>
+    <div>
+      <h2>Shaarli</h2>
+      <p>Un logiciel léger pour sauvegarder, trier et partager des adresses web.</p>
+      <div>
+        <a href="https://framalibre.org/notices/shaarli.html">Vers la notice Framalibre</a>
+        <a href="https://github.com/shaarli/Shaarli">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/FreshRSS.png">
+    </div>
+    <div>
+      <h2>FreshRSS</h2>
+      <p>FreshRSS permet de s'abonner à des sites pour suivre l'actualité.</p>
+      <div>
+        <a href="https://framalibre.org/notices/freshrss.html">Vers la notice Framalibre</a>
+        <a href="https://freshrss.org">Vers le site</a>
       </div>
     </div>
   </article> 
