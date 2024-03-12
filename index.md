@@ -105,6 +105,41 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
     </div>
   </article> 
 
+## Exerciseur
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Logiquiz.png">
+    </div>
+    <div>
+      <h2>Logiquiz</h2>
+      <p>Créez des contenus interactifs H5P pour la classe en présence et à distance.</p>
+      <div>
+        <a href="https://framalibre.org/notices/logiquiz.html">Vers la notice Framalibre</a>
+        <a href="https://ladigitale.dev/logiquiz/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+## Learning Management System
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Moodle.jpg">
+    </div>
+    <div>
+      <h2>Moodle</h2>
+      <p>Environnement d'apprentissage multi-activités en ligne.</p>
+      <div>
+        <a href="https://framalibre.org/notices/moodle.html">Vers la notice Framalibre</a>
+        <a href="https://moodle.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
 ## Cartographie des formations
 
 
