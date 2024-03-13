@@ -221,6 +221,22 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
     </div>
   </article>
 
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Krop.png">
+    </div>
+    <div>
+      <h2>Krop</h2>
+      <p>Ouitl de découpage de PDF. Permet, notamment, de ne sélectionner qu'une partie d'une page PDF (enlever les publicités par exemple), redimensionner un fichier PDF pour l'imprimer sans perte de papier…</p>
+      <div>
+        <a href="https://framalibre.org/notices/krop.html">Vers la notice Framalibre</a>
+        <a href="https://arminstraub.com/software/krop">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
 ## Travail sur les images
 
   <article class="framalibre-notice">
