@@ -105,7 +105,7 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
     </div>
   </article> 
 
-## Exerciseur
+## Moodle
 
 
   <article class="framalibre-notice">
@@ -121,8 +121,6 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
       </div>
     </div>
   </article>
-
-## Learning Management System
 
 
   <article class="framalibre-notice">
@@ -253,6 +251,22 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
       </div>
     </div>
   </article> 
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Sozi.png">
+    </div>
+    <div>
+      <h2>Sozi</h2>
+      <p>Créer des présentations dynamiques par effet de zoom à partir d'une image svg.</p>
+      <div>
+        <a href="https://framalibre.org/notices/sozi.html">Vers la notice Framalibre</a>
+        <a href="http://sozi.baierouge.fr/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
 
 
 # Création de tutoriels vidéo
