@@ -237,6 +237,21 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
   </article>
 
 
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/PDF4Teachers.png">
+    </div>
+    <div>
+      <h2>PDF4Teachers</h2>
+      <p>PDF4Teachers est une application d'édition de documents PDF libre et open source, permettant la correction de copies PDF de manière optimisée.</p>
+      <div>
+        <a href="https://framalibre.org/notices/pdf4teachers.html">Vers la notice Framalibre</a>
+        <a href="https://pdf4teachers.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
 ## Travail sur les images
 
   <article class="framalibre-notice">
