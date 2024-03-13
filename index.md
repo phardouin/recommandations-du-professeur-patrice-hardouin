@@ -418,6 +418,20 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
   </article>
 
 
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/FairEmail.png">
+    </div>
+    <div>
+      <h2>FairEmail</h2>
+      <p>Client Android de messagerie, minimaliste privilégiant la lecture et la rédaction, orienté sécurité.</p>
+      <div>
+        <a href="https://framalibre.org/notices/fairemail.html">Vers la notice Framalibre</a>
+        <a href="https://email.faircode.eu/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
 
   <article class="framalibre-notice">
     <div>
