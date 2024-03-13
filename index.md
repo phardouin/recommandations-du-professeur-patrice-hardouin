@@ -384,6 +384,22 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
     </div>
   </article> 
 
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Scribouilli.png">
+    </div>
+    <div>
+      <h2>Scribouilli</h2>
+      <p>Créer votre petit site facilement !</p>
+      <div>
+        <a href="https://framalibre.org/notices/scribouilli.html">Vers la notice Framalibre</a>
+        <a href="https://scribouilli.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
 # Outils de bureautique
 
 
