@@ -463,6 +463,20 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
     </div>
   </article>
 
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/BigBlueButton.png">
+    </div>
+    <div>
+      <h2>BigBlueButton</h2>
+      <p>Logiciel de vidéo-conférence spécialisé pour l'apprentissage en ligne</p>
+      <div>
+        <a href="https://framalibre.org/notices/bigbluebutton.html">Vers la notice Framalibre</a>
+        <a href="https://bigbluebutton.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
 
 # Système d'exploitation
 
