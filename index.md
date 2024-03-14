@@ -104,6 +104,23 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
       </div>
     </div>
   </article> 
+## Mémorisation par répétitions espacées
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Anki.png">
+    </div>
+    <div>
+      <h2>Anki</h2>
+      <p>Apprendre et réviser grâce aux cartes mémoire (mémorisation par « répétitions espacées »).</p>
+      <div>
+        <a href="https://framalibre.org/notices/anki.html">Vers la notice Framalibre</a>
+        <a href="http://ankisrs.net/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
 
 ## Moodle
 
