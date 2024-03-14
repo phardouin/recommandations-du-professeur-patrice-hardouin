@@ -1,6 +1,6 @@
 ---
 title: "Les recommandations du professeur Patrice HARDOUIN"
-order: 0
+order: 1
 in_menu: true
 ---
 [![Logo du professeur Patrice HARDOUIN]({% link images/logo_PPH_Complet.png %})](https://hardouin.me)
