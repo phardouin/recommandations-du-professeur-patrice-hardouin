@@ -269,6 +269,21 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
   </article>
 
 
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/BookletImposer.svg">
+    </div>
+    <div>
+      <h2>BookletImposer</h2>
+      <p>Créer des livrets pour imprimer des PDF en multipages (4 pages sur une seule feuille par exemple)</p>
+      <div>
+        <a href="https://framalibre.org/notices/bookletimposer.html">Vers la notice Framalibre</a>
+        <a href="https://kjo.herbesfolles.org/bookletimposer/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
 ## Travail sur les images
 
   <article class="framalibre-notice">
