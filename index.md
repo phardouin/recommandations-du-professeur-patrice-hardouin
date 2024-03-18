@@ -331,6 +331,20 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
   </article>
 
 
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Molsketch.png">
+    </div>
+    <div>
+      <h2>Molsketch</h2>
+      <p>Bon logiciel de dessin 2D de molécules. Très pratique pour la réalisation des schémas d'un cours ou d'un devoir.</p>
+      <div>
+        <a href="https://framalibre.org/notices/molsketch.html">Vers la notice Framalibre</a>
+        <a href="https://sourceforge.net/projects/molsketch/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
 
 # Création de tutoriels vidéo
 
