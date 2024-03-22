@@ -573,6 +573,23 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
     </div>
   </article>
 
+# Gestion des facturations
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Dolibarr%20ERP%20CRM.png">
+    </div>
+    <div>
+      <h2>Dolibarr ERP CRM</h2>
+      <p>Dolibarr ERP &amp; CRM est une application web rapide à maîtriser de votre activité professionnelle ou associative</p>
+      <div>
+        <a href="https://framalibre.org/notices/dolibarr-erp-crm.html">Vers la notice Framalibre</a>
+        <a href="https://www.dolibarr.org">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
 
 
 # Veille documentaire
