@@ -403,6 +403,21 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
 
   <article class="framalibre-notice">
     <div>
+      <img src="https://framalibre.org/images/logo/Yourls.svg">
+    </div>
+    <div>
+      <h2>Yourls</h2>
+      <p>YOURLS est un puissant paquet de scripts PHP pour vous permettre de mettre en œuvre, sur votre serveur, votre propre raccourcisseur de liens..</p>
+      <div>
+        <a href="https://framalibre.org/notices/yourls.html">Vers la notice Framalibre</a>
+        <a href="https://yourls.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
+  <article class="framalibre-notice">
+    <div>
       <img src="https://framalibre.org/images/logo/FileZilla.png">
     </div>
     <div>
