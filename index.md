@@ -638,3 +638,18 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
       </div>
     </div>
   </article> 
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/RSS-Bridge.png">
+    </div>
+    <div>
+      <h2>RSS-Bridge</h2>
+      <p>RSS Bridge est un générateur de flux RSS pour les site n'en offrant pas</p>
+      <div>
+        <a href="https://framalibre.org/notices/rss-bridge.html">Vers la notice Framalibre</a>
+        <a href="https://github.com/rss-bridge/rss-bridge">Vers le site</a>
+      </div>
+    </div>
+  </article> 
