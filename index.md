@@ -364,6 +364,21 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
   </article>
 
 
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Shotcut.png">
+    </div>
+    <div>
+      <h2>Shotcut</h2>
+      <p>Montage vidéo multiplateforme et portable.</p>
+      <div>
+        <a href="https://framalibre.org/notices/shotcut.html">Vers la notice Framalibre</a>
+        <a href="https://www.shotcut.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
+
 # Gestion des ressources documentaires
 
 
