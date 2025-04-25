@@ -557,19 +557,21 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
 # Système d'exploitation
 
 
+ 
   <article class="framalibre-notice">
     <div>
-      <img src="https://framalibre.org/images/logo/Ubuntu.png">
+      <img src="https://framalibre.org/images/logo/Debian%20GNU-Linux.png">
     </div>
     <div>
-      <h2>Ubuntu</h2>
-      <p>Système d'exploitation libre facile à installer et à administrer.</p>
+      <h2>Debian GNU/Linux</h2>
+      <p>Une distribution GNU/Linux historique, non commerciale et démocratique.</p>
       <div>
-        <a href="https://framalibre.org/notices/ubuntu.html">Vers la notice Framalibre</a>
-        <a href="https://ubuntu.com/">Vers le site</a>
+        <a href="https://framalibre.org/notices/debian-gnu-linux.html">Vers la notice Framalibre</a>
+        <a href="https://www.debian.org/index.fr.html">Vers le site</a>
       </div>
     </div>
   </article>
+
 
 
 # Communication
