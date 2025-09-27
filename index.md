@@ -3,7 +3,7 @@ title: "Les recommandations du professeur Patrice HARDOUIN"
 order: 1
 in_menu: true
 ---
-[![Logo du professeur Patrice HARDOUIN]({% link images/logo_PPH_Complet.png %})](https://hardouin.me)
+[![Logo du professeur Patrice HARDOUIN]({% link images/logo_PPH_Complet.png %})](https://patrice.biotechno.fr)
 
 Voici la liste de mes logiciels libres préférés, je vous les recommande tout particulièrement !
 
