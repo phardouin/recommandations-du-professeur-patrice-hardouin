@@ -155,7 +155,7 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
   </article>
 
 
-## Cartographie des formations
+## Cartographie des formations, organisation, sondages
 
 
   <article class="framalibre-notice">
@@ -203,6 +203,20 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
     </div>
   </article>
 
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/LimeSurvey.png">
+    </div>
+    <div>
+      <h2>LimeSurvey</h2>
+      <p>Le premier logiciel open source pour la construction de questionnaires en ligne.</p>
+      <div>
+        <a href="https://framalibre.org/notices/limesurvey.html">Vers la notice Framalibre</a>
+        <a href="https://community.limesurvey.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
 
 
 ## Travailler sur les PDF
@@ -573,6 +587,20 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
   </article>
 
 
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/Linux%20Mint.png">
+    </div>
+    <div>
+      <h2>Linux Mint</h2>
+      <p>Système d'exploitation GNU/Linux pensé pour l’ergonomie et la liberté</p>
+      <div>
+        <a href="https://framalibre.org/notices/linux-mint.html">Vers la notice Framalibre</a>
+        <a href="https://linuxmint.com">Vers le site</a>
+      </div>
+    </div>
+  </article>
+
 
 # Communication
  
@@ -605,7 +633,7 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
     </div>
   </article>
 
-# Gestion des facturations
+# Gestion des facturations et gestion des risques DUER
 
 
   <article class="framalibre-notice">
@@ -622,6 +650,20 @@ Voici la liste de mes logiciels libres préférés, je vous les recommande tout 
     </div>
   </article>
 
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://framalibre.org/images/logo/DigiRisk.png">
+    </div>
+    <div>
+      <h2>DigiRisk</h2>
+      <p>Idéal pour la réalisation du DUER en établissement de formation ou en entreprise.</p>
+      <div>
+        <a href="https://framalibre.org/notices/digirisk.html">Vers la notice Framalibre</a>
+        <a href="https://www.digirisk.org/">Vers le site</a>
+      </div>
+    </div>
+  </article>
 
 
 # Veille documentaire
